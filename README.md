@@ -7,5 +7,5 @@ The goal at Horiseon is to help clients with their online presence. Examples inc
 ![Horiseon Screenshot](./assets/images/horiseon-screenshot.png)
 
 ## Website URL
-
+ https://brennaveir.github.io/Horiseon-Refactor/
 
